@@ -6,6 +6,7 @@
   "dependencies": {
     "async": "^2.0.0",
     "ethereum-sandbox-client": "^1.0.0-beta3",
-    "ethereum-sandbox-helper": "^1.0.0-beta2"
+    "ethereum-sandbox-helper": "^1.0.0-beta2",
+    "mocha": "^2.5.3"
   }
 }
